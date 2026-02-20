@@ -1,4 +1,4 @@
-id,repo_name,owner,github_url,commit_hash_full
+id,repo_name,owner,github_url,commit_hash_used
 1,datahub,datahub-project,https://github.com/datahub-project/datahub,1194f910bdd074b1a34a34cc2027eb9cadea8dba
 2,RSSHub,DIYgod,https://github.com/DIYgod/RSSHub,af2252a8c565c98c8fbd0f4b3e3e426d8abc98d3
 3,Flowise,FlowiseAI,https://github.com/FlowiseAI/Flowise,a88337cc8308b7d66c8fbff654d482d540956b98
