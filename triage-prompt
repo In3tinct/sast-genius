@@ -26,7 +26,7 @@ Return a JSON object with:
 "owasp": [
             "A03:2021 - Injection"
           ]},
-"file-path":"/usr/local/home/sast-genius/project12/controller.py"
+"file-path":"/usr/local/home/sast-genius/project12/utils.py"
 "code":"
 ##controller.py
 from flask import Flask, request, jsonify
